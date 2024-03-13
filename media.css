@@ -96,11 +96,11 @@ article .sec-2{
     margin: 50px;
 }
 picture img{
-    width: 400px;
+    width: 300px;
     position: relative;
     top: 0px;
     right: 0px;
-    margin:0px 20px 0px 20px;
+    margin:0px 0px 0px 0px;
 }
 .container{
     margin-top:50px;
