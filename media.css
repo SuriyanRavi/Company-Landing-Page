@@ -93,10 +93,10 @@ article .sec-2{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 50px;
+    /*margin: 50px;*/
 }
 picture img{
-    width: 200px;
+    width: 300px;
     position: relative;
     top: 0px;
     right: 0px;
